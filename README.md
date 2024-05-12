@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior%20Full-Stack+Engineer;Readable, Maintainable & Scalable Code;Innovator in crafting solutions;Architect of scalable systems;Mentorship and empowerment;Problem-solving prowess;Adaptability in dynamic environments;Seamless collaboration across teams;Full lifecycle expertise;Championing coding standards;Polished deliverables;Leading with innovation&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior%20Full-Stack+Engineer;Readable,%20Maintainable%20&%20Scalable%20Code;Innovator%20in%20crafting%20solutions;Architect%20of%20scalable%20systems;Mentorship%20and%20empowerment;Problem-solving%20prowess;Adaptability%20in%20dynamic%20environments;Seamless%20collaboration%20across%20teams;Full%20lifecycle%20expertise;Championing%20coding%20standards;Polished deliverables;Leading%20with%20innovation&center=true&width=500&height=50">
   </a>
 </div>
 
@@ -191,7 +191,7 @@ What I value is to write structured, tested, readable, maintainable and scalable
       <br>Solidity
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
