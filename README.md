@@ -18,9 +18,9 @@
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=7Love7code7&show_icons=true&theme=radical&hide=issues&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=7Love7code7&hide=html,scss,css,less&langs_count=4&layout=compact&theme=radical&card_width=150" />
-  </a>
+  </a> -->
 </div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -186,33 +186,12 @@ What I value is to write structured, tested, readable, maintainable and scalable
         <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
       <br>Threejs
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="Dynamodb" />
-      <br>Dynamodb
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
@@ -247,6 +226,34 @@ What I value is to write structured, tested, readable, maintainable and scalable
       <br>Prettier
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="Dynamodb" />
+      <br>Dynamodb
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  
  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
@@ -263,10 +270,6 @@ What I value is to write structured, tested, readable, maintainable and scalable
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br>GCP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-      <br>Solidity
     </td>
 
  </tr>
