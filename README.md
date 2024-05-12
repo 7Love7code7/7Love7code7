@@ -193,8 +193,8 @@ What I value is to write structured, tested, readable, maintainable and scalable
   </tr>
 
   <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -210,6 +210,14 @@ What I value is to write structured, tested, readable, maintainable and scalable
       <br>Postman
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
@@ -218,12 +226,8 @@ What I value is to write structured, tested, readable, maintainable and scalable
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-      <br>Prettier
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
-      <br>Eslint
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
   </tr>
 
@@ -247,10 +251,6 @@ What I value is to write structured, tested, readable, maintainable and scalable
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
