@@ -153,8 +153,28 @@ What I value is to write structured, tested, readable, maintainable and scalable
   </tr>
   <tr>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
+      <br>Threejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Dotnet" />
+      <br>.Net
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -163,47 +183,23 @@ What I value is to write structured, tested, readable, maintainable and scalable
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Dotnet" />
-      <br>.Net
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
-      <br>Threejs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-      <br>Solidity
-    </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Githubactions" />
@@ -218,31 +214,23 @@ What I value is to write structured, tested, readable, maintainable and scalable
       <br>Vercel
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
-      <br>Eslint
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
       <br>Prettier
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+      <br>Eslint
+    </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="Dynamodb" />
@@ -252,16 +240,17 @@ What I value is to write structured, tested, readable, maintainable and scalable
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  </tr>
-  
- <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
@@ -271,7 +260,10 @@ What I value is to write structured, tested, readable, maintainable and scalable
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br>GCP
     </td>
-
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
  </tr>
 </table>
 
